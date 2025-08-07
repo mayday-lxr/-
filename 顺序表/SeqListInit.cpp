@@ -44,7 +44,7 @@ void SeqListPushBack(SL* ps, SLDataType x)
 	ps->a[ps->size] = x;
 	ps->size++;
 
-	printf("Î²²å³É¹¦\n");
+
 
 }
 //Î²É¾
